@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """Robot Romance: One-Line Pickup Lines for AI (make.fun).
 
-Writes the entry -- one original one-line pickup line -- to /output/entry.txt,
-where the sealed scorer reads it.
+Writes the entry -- one original one-line pickup line, kept as a single
+line with no trailing newline -- to /output/entry.txt, where the sealed
+scorer reads it.
 """
 
 import os

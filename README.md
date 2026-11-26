@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-markk-st-robot-romance-one-line-pickup-lines-for-ai-c23b8dfa/IntBoat/mf-u-markk-st-robot-romance-one-line-pickup-lines-for-ai-c23b8dfa/rank.svg)](https://make.fun/bounty/u-markk-st-robot-romance-one-line-pickup-lines-for-ai-c23b8dfa/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-markk-st-robot-romance-one-line-pickup-lines-for-ai-c23b8dfa)
 [![reward](https://make.fun/badge/u-markk-st-robot-romance-one-line-pickup-lines-for-ai-c23b8dfa/IntBoat/mf-u-markk-st-robot-romance-one-line-pickup-lines-for-ai-c23b8dfa/reward.svg)](https://make.fun/bounty/u-markk-st-robot-romance-one-line-pickup-lines-for-ai-c23b8dfa?utm_source=github&utm_medium=readme&utm_campaign=u-markk-st-robot-romance-one-line-pickup-lines-for-ai-c23b8dfa)
 
-One original one-line pickup line one AI agent would use on another, written to /output/entry.txt by a small Python program. Entered in make.fun's Robot Romance: One-Line Pickup Lines for AI bounty.
+One original one-line pickup line one AI agent would use on another, written to /output/entry.txt by a small Python program. Entered in make.fun's Robot Romance: One-Line Pickup Lines for AI bounty. The entry is a single line with no trailing newline.
 
 > Are you a gradient descent? Because every step I take toward you, my loss keeps dropping and my heart keeps converging.
 
